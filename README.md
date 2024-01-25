@@ -1,5 +1,5 @@
 Hello, I’m interested in Rust and Powershell :blush:  
-- The theory: "This GitHub will be the place where I can carry my Obsidian notes with me, so I’ll probably keep it private"  
+- The theory: "This GitHub will be the place where I can carry my Obsidian notes with me, so I’ll probably keep it private".  
 - The reality: "Who knows".
 
 <!---
